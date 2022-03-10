@@ -1,0 +1,1 @@
+gcc -E <the filename> -o <the output file>
