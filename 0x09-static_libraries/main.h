@@ -1,3 +1,4 @@
+#include <stdio>
 int _putchar(char c);
 char *_memset(char *s, char b, unsigned int n);
 char *_memcpy(char *dest, char *src, unsigned int n);
@@ -18,3 +19,4 @@ int _isdigit(int c);
 int _islower(int c);
 int _isalpha(int c);
 int _abs(int c);
+#endif
